@@ -20,7 +20,7 @@ const Home = () => {
             </motion.div> */}
             <h1 className='text-amber-700 font-bold text-center text-3xl uppercase'>Welcome to <span className="text-black" >Nischey Institute of Hospitality Management</span> </h1>
             <div className='flex flex-col lg:flex-row sm:w-[35rem] md:w-[40rem] lg:w-[60rem] xl:w-[80rem] mx-auto pt-8 items-center gap-4 mb-4'>
-              <p className='pt-4 text-lg leading-8 px-8 '>The NIHM is established under aegis of "Navdisha Foundation" in 2025. Offering top-notch education to the region's aspirants and career-focused pupils is the society's goal. The institute focuses on giving student’s quality education and training in the field of Hospitality so they don't have to travel far for their studies. Top faculty is deputed by NIHM as this institute is dedicated to providing quality education and training in hospitality to its students. 
+              <p className='pt-4 text-lg leading-8 px-8 '>The NIHM is established under aegis of the "Navdisha Foundation" in 2025. Offering top-notch education to the region's aspirants and career-focused pupils is the society's goal. The institute focuses on giving student’s quality education and training in the field of Hospitality so they don't have to travel far for their studies. Top faculty is deputed by NIHM as this institute is dedicated to providing quality education and training in hospitality to its students. 
                 Students who are educated and trained here will become skilled 
                 professionals who can get good employment in both industry and 
                 society. 
