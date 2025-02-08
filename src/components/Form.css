@@ -1,0 +1,28 @@
+.triangle::before{
+    content: '';
+    height: 13rem;
+    width: 100%;
+    background-color: #7f4829;
+    position: absolute;
+    clip-path: polygon(0% 0%,100% 0%,100% 30%);
+    /* z-index: -1; */
+}
+.triangle{
+    position: absolute;
+    height: 13rem;
+    width: 100%;
+    top: 0;
+}
+
+.overlay{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.formcomponent{
+    transition: all 0.5s ease;
+}

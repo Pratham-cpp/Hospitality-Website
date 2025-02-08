@@ -1,0 +1,38 @@
+const data=[
+    {
+        id : 1,
+        title: 'Our vision',
+        description: 'Bringing holistic quality higher education within the easy reach of all and moulding individuals into competent and effective manpower resource, who besides being skilled professional shall be endowed with highest standards of ethics and humanity.'
+    },
+    {
+        id : 2,
+        title: 'Our Mission',
+        description: 'To provide education that is intellectually stimulating, multi-talented,value-based, interactive and socially committed so as to promote both individual growth and social development.'
+    },
+    {
+        id : 3,
+        title: 'Our Story',
+        description: 'Our Managing Director Dr. Ashok Singhal and Dr. Navneeta Singhal after traveling around the world decided to set up a beautiful resort in India to provide international hospitality facilities and experience to Indians. Where people get a chance to see the forest, wildlife, water and Air in their natural form and can relax there for a few days and get the most memorable experience of their life.After considering all these things, he built "Corbett Nishk Resort" in Ramnagar, Nainital, Uttarakhand. Many local people have also got employment due to this resort. Guests are being given better facilities in every possible way in the resort. Now to improve the facilities and services of the resort, he thought that the employees should be given better education and training as well as information about international services so that the employees can feel competent in every way.In this direction, an institute named "Nischey Institute of Hospitality Management" has been created, where all the employees and the young generation will be given education and training on hospitality skills so that their future can be bright. Every student will be given proper training to learn hospitality skills. They will acquire such skills during this program which will enable them to get employment easily and become entrepreneurs..'
+    },
+    // {
+    //     id : 4,
+    //     title: 'Our Story',
+    //     description: 'Our Managing Director Dr. Ashok Singhal and Dr. Navneeta Singhal after traveling around the world decided to set up a beautiful resort in India to provide international hospitality facilities and experience to Indians. Where people get a chance to see the forest, wildlife, water and Air in their natural form and can relax there for a few days and get the most memorable experience of their life.After considering all these things, he built "Corbett Nishk Resort" in Ramnagar, Nainital, Uttarakhand. Many local people have also got employment due to this resort. Guests are being given better facilities in every possible way in the resort. Now to improve the facilities and services of the resort, he thought that the employees should be given better education and training as well as information about international services so that the employees can feel competent in every way.In this direction, an institute named "Nischey Institute of Hospitality Management" has been created, where all the employees and the young generation will be given education and training on hospitality skills so that their future can be bright. Every student will be given proper training to learn hospitality skills. They will acquire such skills during this program which will enable them to get employment easily and become entrepreneurs..'
+    // },
+    // {
+    //     id : 5,
+    //     title: 'Our Story',
+    //     description: 'Our Managing Director Dr. Ashok Singhal and Dr. Navneeta Singhal after traveling around the world decided to set up a beautiful resort in India to provide international hospitality facilities and experience to Indians. Where people get a chance to see the forest, wildlife, water and Air in their natural form and can relax there for a few days and get the most memorable experience of their life.After considering all these things, he built "Corbett Nishk Resort" in Ramnagar, Nainital, Uttarakhand. Many local people have also got employment due to this resort. Guests are being given better facilities in every possible way in the resort. Now to improve the facilities and services of the resort, he thought that the employees should be given better education and training as well as information about international services so that the employees can feel competent in every way.In this direction, an institute named "Nischey Institute of Hospitality Management" has been created, where all the employees and the young generation will be given education and training on hospitality skills so that their future can be bright. Every student will be given proper training to learn hospitality skills. They will acquire such skills during this program which will enable them to get employment easily and become entrepreneurs..'
+    // },
+    // {
+    //     id : 6,
+    //     title: 'Our Story',
+    //     description: 'Our Managing Director Dr. Ashok Singhal and Dr. Navneeta Singhal after traveling around the world decided to set up a beautiful resort in India to provide international hospitality facilities and experience to Indians. Where people get a chance to see the forest, wildlife, water and Air in their natural form and can relax there for a few days and get the most memorable experience of their life.After considering all these things, he built "Corbett Nishk Resort" in Ramnagar, Nainital, Uttarakhand. Many local people have also got employment due to this resort. Guests are being given better facilities in every possible way in the resort. Now to improve the facilities and services of the resort, he thought that the employees should be given better education and training as well as information about international services so that the employees can feel competent in every way.In this direction, an institute named "Nischey Institute of Hospitality Management" has been created, where all the employees and the young generation will be given education and training on hospitality skills so that their future can be bright. Every student will be given proper training to learn hospitality skills. They will acquire such skills during this program which will enable them to get employment easily and become entrepreneurs..'
+    // },      
+    // {
+    //     id : 7,
+    //     title: 'Our Story',
+    //     description: 'Our Managing Director Dr. Ashok Singhal and Dr. Navneeta Singhal after traveling around the world decided to set up a beautiful resort in India to provide international hospitality facilities and experience to Indians. Where people get a chance to see the forest, wildlife, water and Air in their natural form and can relax there for a few days and get the most memorable experience of their life.After considering all these things, he built "Corbett Nishk Resort" in Ramnagar, Nainital, Uttarakhand. Many local people have also got employment due to this resort. Guests are being given better facilities in every possible way in the resort. Now to improve the facilities and services of the resort, he thought that the employees should be given better education and training as well as information about international services so that the employees can feel competent in every way.In this direction, an institute named "Nischey Institute of Hospitality Management" has been created, where all the employees and the young generation will be given education and training on hospitality skills so that their future can be bright. Every student will be given proper training to learn hospitality skills. They will acquire such skills during this program which will enable them to get employment easily and become entrepreneurs..'
+    // }
+]
+export default data;
